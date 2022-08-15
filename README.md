@@ -22,7 +22,7 @@
 </ul>
 <img src="img/output_r24_w300.gif" />
 
-<h4>How to play</h4>
+<h4>How to play / 遊び方</h4>
 <!-- en -->
 <ul>
     <li>After launching the application, tap the "▶︎" button to start the game. Swipe to throw the ball.</li>
@@ -43,8 +43,7 @@
   <li>GameCenterにログインしなくてもプレイできますが、獲得したスコアは保存されません。</li>
 </ul>
 
-<h4>Purchase and select the playing ball</h4>
-<img src="https://user-images.githubusercontent.com/1214848/168076801-51ff3cee-16b7-40bd-9e69-0a34763dc3f2.PNG" width="250px" />
+<h4>Purchase and select the playing ball / 有料ボール</h4>
 <ul>
   <li>You can play with purchased balls.</li>
   <li>After launching the application, tap the settings button in the lower right corner of the screen to display the Item screen</li>
@@ -55,6 +54,13 @@
   <li>アプリを起動した後、画面右下の設定ボタンをタップすると、アイテム画面が表示されます。</li>
   <li>アイテム画面では、ボール購入と、プレイするボールを指定できます。</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/1214848/184517901-40e2c0bf-77b3-4ffb-b219-6293fc9cb472.PNG" width="250px" />
+
+<table><tr><td><img src="https://user-images.githubusercontent.com/1214848/184517574-f331cd29-8dad-41c4-8ead-4e95ef2adc3c.png" /></td><td>If the ball collides with a wall at right angles to the wall it just collided with, you get 2 points!<br />For example, immediately after the ball collides with the right wall, if it collides with the upper or lower wall, you get 2 points, if it collides with the left wall, you get 1 point.<br />
+直前に衝突した壁に対して直角方向の壁にボールが衝突すると、2点獲得できます！<br />例えば、右側の壁にボールが衝突した直後、上もしくは下の壁に衝突したら2点獲得、左側の壁に衝突したら1点獲得です。</td></tr>
+  <tr><td><img src="https://user-images.githubusercontent.com/1214848/184517593-c9dafc28-a5b3-4b6c-a026-0303ab0f1b91.png" /></td><td>After throwing the ball, you can stop and throw the ball again only once before it falls into the hole.<br />When you throw the ball, a pause button appears, which you can tap only once. When you tap that button, the ball stops and you can throw again!<br />In other words, if the ball is about to fall into a hole or you miss the throw, you can throw it again keeping your score.<br />ボールを投げた後、穴に落ちる前までに、一度だけボールを停止して再度投げることができます！<br />ボールを投げると一時停止ボタンが表示され、一度だけタップできます。ボタンをタップするとボールが停止し、再度投げることができます。<br />つまり、ボールが穴に落ちそうになったり投げ損ねた時などに、スコアを維持したまま投げ直すことができるボールです。"</td></tr>
+  </table>
+  
 
 ## Download
 
